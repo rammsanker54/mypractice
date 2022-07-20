@@ -1,0 +1,55 @@
+.container
+{
+    width: 1110px;
+    margin: auto;
+    outline: solid 3px red;
+
+}
+.title
+{
+    display: flex;
+    justify-content: center};
+
+.banner
+{
+    width: 100%;
+    display: flex;
+       
+}
+.bannerphoto,
+.textarea{
+    width: 50%;
+    height: 136px;
+    outline: solid 3px rgb(134, 39, 223);
+
+
+}
+
+.subscrptions
+{
+    display: flex;
+    justify-content: space-around;   
+}
+.subscrptions,
+.subscrptions-text1{
+    width: 40%;
+    height: 180px;
+    outline: solid 2px red;
+}
+.about
+{
+    width: 90%;
+    margin: auto;
+    outline: solid 3px red;
+    height: 199px;
+    }
+.footer
+{
+    height: 140px;
+}
+.legal
+{
+    height: 70px;
+    margin: auto;
+    outline: solid 4px green;
+}
