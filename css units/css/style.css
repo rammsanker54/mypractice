@@ -1,0 +1,49 @@
+.centimeter h1{
+font-size: 1cm;
+}
+.units{
+    background-color: bisque;
+}
+.centimeter h2{
+    font-size: 10mm;
+}i
+.centimeter h3{
+font-size: 1in;
+}
+.absoloute h1{
+font-size: 10px;
+}
+.absoloute h2{
+    font-size: 20pt;
+ }
+ .absoloute h3{
+    font-size: 2rem;
+ }
+ .relative h1{
+    font-size: 10vh;
+
+ }
+ .relative h2{
+    font-size: 10vw;
+    color: #555;
+
+ }
+ .img img{
+    align-items: center;
+    width: 20em;
+    height: 40vmax;
+ }
+ .image{
+    width: 100%;
+    height: auto;
+ }
+ .image img{
+    width: 50%;
+    height: auto;
+
+ }
+ .image:hover img{
+    transition: all 5s ;
+    transform: rotate(45deg);
+
+ }
